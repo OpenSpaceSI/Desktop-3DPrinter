@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GIMP\nTutorial
+Icon=gimp
+Exec=iceweasel %u http://www.gimp.org/tutorials/
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/vnd.mozilla.xul+xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;
+StartupWMClass=Iceweasel
+StartupNotify=true
